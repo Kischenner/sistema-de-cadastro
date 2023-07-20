@@ -1,6 +1,6 @@
 TEste de arquivo
 
-Para rodar este projeto digite
+Para rodar este projeto digite ()
 ```
 npm install react
 ```
